@@ -20,7 +20,7 @@ O projeto consiste em sistema que cronometra as voltas de um piloto em uma pista
 
 O projeto possui duas principais partes, controle e visualização.
 
-![alt text](image.png)
+![alt text](./docs/images/image.png)
 
 O controle é representado por dois botões, o primeiro é utilizado para iniciar o sistema, ao apertar este botão o contador é iniciado, o segundo botão é utilizado para iniciar uma nova volta.
 
